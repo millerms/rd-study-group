@@ -8,19 +8,22 @@ This repository serves as a barebones starting point for building your own Jekyl
 
 ## ⚙️ Getting Started
 
-### 1. Clone the repository
+### 1. Start with the template
+You can create a new repository using this template by clicking the "Use this template" button on the GitHub repository page.
+
+### 2. Clone the repository
 ```bash
-git clone https://github.com/your-username/mm-template.git
-cd mm-template
+git clone https://github.com/your-username/repo-name.git
+cd repo-name
 ```
 
-### 2. Install dependencies
+### 3. Install dependencies
 Make sure you have Ruby and Bundler installed:
 ```bash
 bundle install
 ```
 
-### 3. Run locally
+### 4. Run locally
 ```bash
 bundle exec jekyll serve
 ```
