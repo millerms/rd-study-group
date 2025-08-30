@@ -67,7 +67,7 @@ Starting at page 7 “The Truth: Dharma”. Page numbers are from the book’s t
 ## Pre‑Meeting Participant Prep (each week)
 
 - Please read the assigned pages.
-- Answer the chapter’s inquiry questions from the book before the meeting. For Week 1, we could optionally use “Inquiry of the First Noble Truth”.
+- Answer the chapter’s inquiry questions from the book before the meeting.
 - Maybe note or highlight a few quotes or lines that resonated.
 - Bring one small practice you’re willing to try during the week.
 
