@@ -4,3 +4,5 @@ main:
     url: "/"
   - title: "Meeting Format"
     url: "/meeting/"
+  - title: "Resources"
+    url: "/resources/"
