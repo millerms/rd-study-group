@@ -1,15 +1,17 @@
 # Theme Settings
 theme: "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
-minimal_mistakes_skin: "custom"
+minimal_mistakes_skin: "air"
 
 # Site Settings
 locale: "en-US"
-title: "Site Title"
-description: "An amazing website."
-url: ""
-baseurl: ""
-repository: ""
+title: "Recovery Dharma Study Group"
+description: "Study guide and meeting format"
+url: "https://millerms.github.io"
+baseurl: "/rd-study-group"
+
+atom_feed:
+  hide: true
 
 # Site Author
 author:
@@ -22,24 +24,9 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://github.com/millerms/rd-study-group"
   since: "2013"
 
 # Reading Files

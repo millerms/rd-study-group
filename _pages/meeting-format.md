@@ -2,8 +2,6 @@
 layout: splash
 title: RD Study Group — Meeting Format
 permalink: /meeting/
-header:
-  overlay_color: $overlay-color
 classes:
   - landing
   - dark-theme
@@ -18,7 +16,7 @@ Welcome to our Recovery Dharma study group! We come together to explore a Buddhi
 
 This is a program of empowerment. It does not ask you to believe in anything beyond your own potential to change and heal. We take guidance from the Four Noble Truths and the Noble Eightfold Path, and invite you to investigate these practices as tools for freedom from the suffering of addiction. Many people pair this approach with other recovery programs; you are welcome to do the same.
 
-My name is ____________, and I’m the facilitator for today’s session. I’m not a Buddhist teacher and I don’t hold special authority here. I’m a member of this group who has volunteered to help guide our time together today.
+My name is "_____", and I’m the facilitator for today’s session. I’m not a Buddhist teacher and I don’t hold special authority here. I’m a member of this group who has volunteered to help guide our time together today.
 
 ## Group Agreements
 <i>Read these before we dive into the meditation.<i>
@@ -44,8 +42,8 @@ My name is ____________, and I’m the facilitator for today’s session. I’m 
 
 ## Practice Commitment (closing)
 
-- This week I will try: _________________________________ (2–5 minutes daily)
-- One small support I’ll use: ___________________________
+- This week I will try: "_____" (2–5 minutes daily)
+- One small support I’ll use: "_____"
 
 ## Dedication of Merit (closing)
 <i>Ask someone to read:<i>

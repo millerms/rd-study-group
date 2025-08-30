@@ -1,0 +1,18 @@
+version: "3.8"
+
+services:
+  site:
+    build: .
+    ports:
+      - "4000:4000"
+      - "35729:35729"
+    environment:
+      - JEKYLL_ENV=development
+      - BUNDLE_PATH=/site/vendor/bundle
+    volumes:
+      - .:/site
+      - bundle-cache:/site/vendor/bundle
+    command: bundle exec jekyll serve --host 0.0.0.0 --port 4000 --livereload --force_polling --trace
+
+volumes:
+  bundle-cache:
