@@ -1,47 +1,54 @@
+# Recovery Dharma Study Group — Site
 
-# Minimal Mistakes Jekyll Template
+Jekyll site for the Recovery Dharma Study Group. Built with the Minimal Mistakes theme and deployed via GitHub Pages.
 
-A stripped-down starter based on the [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) Jekyll theme, cleaned up for quick customization and deployment to GitHub Pages.
+## Overview
+- Live site: `https://millerms.github.io/rd-study-group/`
+- Theme: [`mmistakes/minimal-mistakes@4.27.3`](https://github.com/mmistakes/minimal-mistakes)
+- Base URL: `_config.yml` uses `url: https://millerms.github.io` and `baseurl: /rd-study-group` (links should respect this).
 
-## 📌 Purpose
-This repository serves as a barebones starting point for building your own Jekyll site using the Minimal Mistakes theme without extra sample content or development files.
+## Project Structure
+- `_config.yml`: Site config, theme, footer links.
+- `_data/navigation.yml`: Primary navigation links.
+- `_pages/`: Static pages (e.g., meeting format, resources).
+- `index.md`: Home page (study guide).
+- `assets/`, `_sass/`: Styles and assets.
 
-## ⚙️ Getting Started
+## Local Development (Docker)
+Prereqs: Docker Desktop with Compose v2 (`docker compose`).
 
-### 1. Start with the template
-You can create a new repository using this template by clicking the "Use this template" button on the GitHub repository page.
+- Start: `make serve`
+- Open: `http://localhost:4000/rd-study-group/`
+- Stop: Ctrl+C
+- Clean: `make clean`
 
-### 2. Clone the repository
-```bash
-git clone https://github.com/your-username/repo-name.git
-cd repo-name
-```
+What it does:
+- Builds a Ruby 3.2 image and installs gems.
+- Mounts the repo so edits live-reload (`35729` exposed).
+- Caches gems in a Docker volume for faster subsequent runs.
 
-### 3. Install dependencies
-Make sure you have Ruby and Bundler installed:
-```bash
-bundle install
-```
+## Local Development (Ruby)
+If you prefer running locally without Docker:
 
-### 4. Run locally
-```bash
-bundle exec jekyll serve
-```
-Your site will be available at `http://localhost:4000`.
+1) Install Ruby 3.2+ (via rbenv/asdf).
+2) Install Bundler matching the lockfile: `gem install bundler:2.7.1`
+3) Install gems: `bundle install`
+4) Serve: `bundle exec jekyll serve`
 
-## 💡 Usage
-- Edit `_config.yml` to set your site title, description, URL, and author information.
-- Add blog posts in the `_posts/` directory (`YYYY-MM-DD-title.md`).
-- Add static pages in the `_pages/` directory.
-- Store images in `assets/images/`.
+Open `http://localhost:4000/rd-study-group/`.
 
-## 🚀 Deployment to GitHub Pages
-1. Push your changes to a GitHub repository.
-2. Enable **GitHub Pages** in repository settings, using the `main` branch.
-3. Your site will be live at `https://your-username.github.io/your-repo`.
+## Common Edits
+- Navigation: Edit `_data/navigation.yml` and use URLs like `/` or `/meeting/` (the theme will prefix `baseurl`).
+- Footer links: Edit `footer.links` in `_config.yml` and include both `label`, `icon`, and `url`.
+- Pages: Add Markdown files in `_pages/` with front matter including `layout` and `permalink`.
 
-## 🙏 Acknowledgements
-- Built on [Minimal Mistakes Jekyll Theme](https://github.com/mmistakes/minimal-mistakes) by Michael Rose.
+## Deploying to GitHub Pages
+This is configured as a GitHub project site. Push to `main` and enable GitHub Pages in the repo settings (Source: `GitHub Actions` or `Deploy from branch`, pointing to `main`). The site publishes to:
 
-## 📄 License
-This project is open source under the MIT License. See [LICENSE](LICENSE) for details.
+`https://millerms.github.io/rd-study-group/`
+
+## Acknowledgements
+- Theme: [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) by Michael Rose.
+
+## License
+MIT — see [`LICENSE`](LICENSE).
