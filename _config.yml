@@ -1,5 +1,4 @@
 # Theme Settings
-theme: "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 minimal_mistakes_skin: "air"
 
@@ -16,10 +15,6 @@ atom_feed:
 # Site Author
 author:
   name: "Michael Miller"
-  # avatar: "/assets/images/bio-photo.jpg"
-  # bio: 
-  # location: 
-  # email: 
 
 # Site Footer
 footer:
