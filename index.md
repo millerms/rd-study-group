@@ -3,10 +3,10 @@ layout: splash
 classes:
   - landing
   - dark-theme
-title: Recovery Dharma Working Group — Study Guide
+title: RD Study Group — Study Guide & Schedule
 permalink: /
 ---
-# Recovery Dharma Working Group — Study Guide
+# RD Study Group — Study Guide & Schedule
 
 > Based on the **[Recovery Dharma Book](https://drive.google.com/file/d/1Isotp-WlUedFJlKDqjpvO7uKgVsvX3J1/view)**. This guide is a flexible framework to support a small group in reading, reflecting on, and practicing the teachings together.
 
