@@ -28,7 +28,7 @@ My name is "_____", and I’m the facilitator for today’s session. I’m not a
 
 ### Tips:
 - Please silence notifications. You’re welcome to pass at any time.
-- Speak from your own experience; avoid advice unless requested.
+- Speak from your own experience; avoid unsolicited advice giving and/or ask permission.
 - Take space, make space: be mindful of time and voices in the room.
 
 ## Meeting Flow
