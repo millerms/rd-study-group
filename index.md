@@ -10,6 +10,14 @@ permalink: /
 
 > Based on the **[Recovery Dharma Book](https://drive.google.com/file/d/1Isotp-WlUedFJlKDqjpvO7uKgVsvX3J1/view)**. This guide is a flexible framework to support a small group in reading, reflecting on, and practicing the teachings together.
 
+## This Week
+
+- Next meeting: Sep 10, 2025 · 7:30 pm
+- Reading: The Truth: Dharma — The First Noble Truth (pp. 7–13)
+- Questions: Inquiry of “The First Noble Truth”
+- Meditation: Breath as an anchor
+{: .notice--info}
+
 ## Purpose
 
 Create a safe, consistent container to read, reflect on, and practice the teachings and tools of Recovery Dharma together. This is a living document to adapt as we go, we could also forgo this entirely and just meet informally.
