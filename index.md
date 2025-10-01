@@ -12,10 +12,10 @@ permalink: /
 
 ## This Week
 
-- Next meeting: Sep 26, 2025 · 7:30 pm
-- Reading: The Truth: Dharma — The First Noble Truth (pp. 7–13)
-- Questions: Inquiry of “The First Noble Truth”
-- Meditation: Breath as an anchor
+- Next meeting: Oct 8, 2025 · 7:30 pm
+- Reading: The Truth: Dharma — The Second Noble Truth (pp. 13–15)
+- Questions: Inquiry of “The Second Noble Truth”
+- Meditation: Mental Noting (3–5 minutes)
 {: .notice--info}
 
 ## Purpose
