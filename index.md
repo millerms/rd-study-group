@@ -12,10 +12,10 @@ permalink: /
 
 ## This Week
 
-- Next meeting: Oct 8, 2025 · 7:30 pm
-- Reading: The Truth: Dharma — The Second Noble Truth (pp. 13–15)
-- Questions: Inquiry of “The Second Noble Truth”
-- Meditation: Mental Noting (3–5 minutes)
+- Next meeting: TBD (weekly or biweekly, TBD)
+- Reading: Planning Stage
+- Questions: What do we want to focus on in our first meeting?
+- Meditation: Breath/anchor practice (3–5 minutes)
 {: .notice--info}
 
 ## Purpose
